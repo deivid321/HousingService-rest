@@ -1,0 +1,3 @@
+com\deivydas\voroneckis\housingservice\rest\config\ApplicationConfig.class
+com\deivydas\voroneckis\housingservice\rest\config\WebAppInitializer.class
+com\deivydas\voroneckis\housingservice\rest\controller\RoomRestController.class
